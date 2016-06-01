@@ -1,0 +1,496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"meetingtitle"
+			],
+			[
+				"pri",
+				"priceflag"
+			],
+			[
+				"dt",
+				"dtflag"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"dd",
+				"ddindex"
+			],
+			[
+				"dis",
+				"disindex"
+			],
+			[
+				"PRI",
+				"price"
+			],
+			[
+				"S",
+				"s"
+			],
+			[
+				"MY",
+				"myparser"
+			],
+			[
+				"P",
+				"price"
+			],
+			[
+				"Tas",
+				"TranslateAnimation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "template/TemplateActivity.java",
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/TemplateCallBack.java",
+			"settings":
+			{
+				"buffer_size": 251,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/TemplateController.java",
+			"settings":
+			{
+				"buffer_size": 632,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/TemplateDataAction.java",
+			"settings":
+			{
+				"buffer_size": 202,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/TemplateDataCallBack.java",
+			"settings":
+			{
+				"buffer_size": 229,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/TemplateDataSupport.java",
+			"settings":
+			{
+				"buffer_size": 730,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "generator.py",
+			"settings":
+			{
+				"buffer_size": 257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xuelang1/Desktop/test.html",
+			"settings":
+			{
+				"buffer_size": 3085,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/xuelang1/Documents/toolproject/template/TemplateDataAction",
+		"/Users/xuelang1/Documents/toolproject/template/TemplateDataCallBack",
+		"/Users/xuelang1/Desktop/b",
+		"/Users/xuelang1/Desktop/{",
+		"/Users/xuelang1/Desktop/cc",
+		"/Users/xuelang1/Desktop/ccd",
+		"/Users/xuelang1/Documents/toolproject/TemplateCodeGenerator/generator.py",
+		"/Users/xuelang1/Downloads/pplayer/src/com/ziman/ui/FileListActivity.java"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"\n",
+			"\"\",",
+			"9016-4EF8",
+			"storage/9016-4EF8",
+			"sdcard1",
+			"Scroller",
+			"animate()",
+			"animate().rotation",
+			"speedArray\nsetRotation",
+			"speedArray",
+			"setPlaybackSpeed",
+			"initPlayInfo",
+			"pdf",
+			"initFragment",
+			"stop",
+			"print",
+			"LINE",
+			"SpanObject",
+			"YOUMENG",
+			"versioncode",
+			"24",
+			"SDCardScanner",
+			"onWordRootClick",
+			"setImage",
+			"onWordRootClick",
+			"loadimages",
+			"firstInitDefinition",
+			"currentDefinition",
+			"setLayoutVisibility",
+			"initDefinitionPopMenu",
+			"r1346",
+			"mob",
+			"is"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "template/TemplateActivity.java",
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "template/TemplateCallBack.java",
+					"settings":
+					{
+						"buffer_size": 251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "template/TemplateController.java",
+					"settings":
+					{
+						"buffer_size": 632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "template/TemplateDataAction.java",
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "template/TemplateDataCallBack.java",
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "template/TemplateDataSupport.java",
+					"settings":
+					{
+						"buffer_size": 730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								681,
+								681
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "generator.py",
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/xuelang1/Desktop/test.html",
+					"settings":
+					{
+						"buffer_size": 3085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1920,
+								1940
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 282.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 159.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true
+}
