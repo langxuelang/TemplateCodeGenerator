@@ -1,7 +1,8 @@
 
+#-*- coding:utf-8 –*-
 #定义全局的常量
 packagename = "com.bangstudy.xue";
-author = "gaotebng"
+author = "高腾"
 packagename =  packagename.replace(".","/");
 url = "/app/src/main/java/"+packagename
 MODEL_URL = url+"/model";
